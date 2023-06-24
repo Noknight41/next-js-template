@@ -1,0 +1,7 @@
+.next/*
+public/*
+.mock-api/*
+dist/*
+node_modules/*
+build/*
+next.config.js
